@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pratik 
 #### I am a Second Year Information Technology Student
-![I am a Second Year Information Technology Student](https://www.canva.com/design/DAFKazYBpzo/view)
+![I am a Second Year Information Technology Student](https://www.canva.com/design/DAFKazYBpzo/Mi4DhGZk90RR_nVUAxzLWw/view?utm_content=DAFKazYBpzo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 I'm focused in the field of Artificial Intelligence, Ethical Hacking and Game Development. Having a passion for Learning to Game design and well equipped with Great Problem solving skills, I always lookout to learn something new and something excited.
 
