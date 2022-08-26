@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KnightBea
-- 👀 I’m interested in BECOMING A DEVELOPER AT MOJANG AND GAMES
-- 🌱 I’m currently COMPUTER SCIENCE
-- 💞️ I’m looking to collaborate on MINECRAFT
+- 👋 Hi, I’m Pratik Ghadi
+- 👀 I’m interested in Game Develpment , Aritifical Intelligence and Ethical Hacking
+- 🌱 I’m currently Pursing Information Techonology at Goa College of Engineering
+- 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me ON TWITTER @knightbeastrise
 
 <!---
